@@ -9,7 +9,7 @@ O trabalho foi realizado individualmente e apresenta estudo sobre criação de t
 ## Estrutura dos Arquivos
 
 ### Parte I – Criação de Túnel no NGINX
-- **relatorio_parte1.pdf**: Relatório detalhando os passos para criar um túnel de um domínio configurado no NGINX.  
+- **tunelamento.pdf**: Relatório detalhando os passos para criar um túnel de um domínio configurado no NGINX.  
 - **video_criacao_tunel.mp4** (ou link externo): Vídeo demonstrando a criação do túnel e seu funcionamento.  
 
 ### Parte II – Pesquisa de Protocolos de Rede
