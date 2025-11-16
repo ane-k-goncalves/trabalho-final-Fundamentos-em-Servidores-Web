@@ -24,7 +24,7 @@ O trabalho foi realizado individualmente e apresenta estudo sobre criação de t
 - **avaliacao3.pdf**: Relatório da Avaliação 3, incluído no repositório conforme solicitado.  
 
 ### Material Adicional (Opcional)
-- **material_disciplina.zip**: Arquivo ZIP com materiais adicionais em PDF da disciplina, como relatórios de APS.
+- **REVISÃO-PROVA.pdf**: Materiais adicionais em PDF da disciplina, revisão para prova 3.
 
 ---
 
