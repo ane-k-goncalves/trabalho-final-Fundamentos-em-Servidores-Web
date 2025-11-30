@@ -2,7 +2,7 @@
 
 Este repositório contém os materiais referentes ao trabalho de redes da disciplina de Fundamentos em Servidores Web, incluindo as Partes I e II, bem como o relatório da Avaliação 3.  
 
-O trabalho foi realizado individualmente e apresenta estudo sobre criação de túnel com NGINX e NGROK, protocolos de rede e exemplos práticos no Linux.
+O trabalho foi realizado por Ane Karine Gonçalves e Tiago Sampaio e apresenta estudo sobre criação de túnel com NGINX e NGROK, protocolos de rede e exemplos práticos no Linux.
 
 ---
 
@@ -32,6 +32,10 @@ O trabalho foi realizado individualmente e apresenta estudo sobre criação de t
 
 ### link 
 
+### Apresentação dos protocolos SSH e FTP por Tiago Sampaio
+
+### https://www.youtube.com/watch?v=0BnQ9ZRrJxU
+
 ---
 
-**Realização:** Ane Karine Gonçalves
+**Realização:** Ane Karine Gonçalves e Tiago Sampaio
